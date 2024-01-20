@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am currently studying the second period of software engineering <br>at Universidade Pitágoras Unopar Anhanguera.<br>📚I take the Vai na Web front-end course.<br>🚀 I'm always practicing HTML5, CSS.<br>💼 I'm part of the Social Web project.<br>💻 I am currently learning HTML5, CSS and ALGORITHM.
+🎓 I am currently studying the second period of software engineering <br>at Universidade Pitágoras Unopar Anhanguera.<br>📚I take the Vai na Web front-end course.<br>🚀 I'm always practicing HTML5, CSS.<br>💼 I'm part of the Social Web project.<br>💻 I am currently learning HTML5, CSS, JAVASCRIPT, SASS, STYLED-COMPONENTS and  ALGORITHM.
 
 
 ## 🌐 Socials:
