@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/luizmichel20) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luizmichel021) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luizmichel021) 
 
 # 💻 Tech Stack:
-![HTML5](https://cdn.icon-icons.com/icons2/2530/PNG/96/html_button_icon_151929.png) ![CSS3](https://cdn.icon-icons.com/icons2/2530/PNG/96/css_button_icon_151935.png) ![REACT](https://cdn.icon-icons.com/icons2/2530/PNG/96/react_button_icon_151947.png) ![JAVA](https://cdn.icon-icons.com/icons2/2530/PNG/96/java_button_icon_151928.png)
+![HTML5](https://cdn.icon-icons.com/icons2/2530/PNG/128/html_button_icon_151929.png) ![CSS3](https://cdn.icon-icons.com/icons2/2530/PNG/128/css_button_icon_151935.png) ![REACT](https://cdn.icon-icons.com/icons2/2530/PNG/128/react_button_icon_151947.png) ![JAVA](https://cdn.icon-icons.com/icons2/2530/PNG/128/java_button_icon_151928.png)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luizmichel021&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luizmichel021&theme=radical&hide_border=true)<br/>
