@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am currently studying the fourth period of software engineering <br>at Universidade Pitágoras Unopar Anhanguera.<br>📚I take the Vai na Web front-end course.<br>🚀 I'm always practicing JAVA.<br>💻 I am currently learning HTML5, CSS, JAVASCRIPT, JAVA, REACT and STYLED-COMPONENTS.
+🎓 I am currently studying the fourth period of software engineering at Universidade Pitágoras Unopar Anhanguera.<br>📚I take the Vai na Web front-end course.<br>🚀 I'm always practicing JAVA.<br>💻 I am currently learning HTML5, CSS, JAVASCRIPT, JAVA, REACT and STYLED-COMPONENTS.
 
 
 ## 🌐 Socials:
